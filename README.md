@@ -1,1 +1,1 @@
-# ASR-Prediction
+#💻 Running the GUI Application Locally
