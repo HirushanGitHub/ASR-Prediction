@@ -5,4 +5,4 @@
 4. Then the application window will open.
 5. Enter the required input values in the provided fields. Click the "Predict" button. The application will generate a plot of ASR expansion over time.
 
-- Before running the application, ensure all required Python libraries are installed.
+❗ Before running the application, make sure to install all the required Python libraries. You can install them using the _pip_ command.
